@@ -43,6 +43,7 @@ class TodoList(Resource):
         return new_todo, 201
 
 @todos_bp.route('/<int:id>')
+@todos_bp.route('/<int:id>/')
 @todos_bp.param('id', 'The todo identifier')
 class TodoResource(Resource):
     @todos_bp.doc('get_todo')

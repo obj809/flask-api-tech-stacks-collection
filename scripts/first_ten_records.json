@@ -6,20 +6,12 @@
     ],
     "todos": [
         {
-            "id": 1,
-            "title": "First task"
+            "id": 11,
+            "title": "this is working"
         },
         {
-            "id": 2,
-            "title": "Second task"
-        },
-        {
-            "id": 3,
-            "title": "Third task"
-        },
-        {
-            "id": 7,
-            "title": "woweee"
+            "id": 12,
+            "title": "Sample Todo"
         }
     ]
 }
