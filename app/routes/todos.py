@@ -10,6 +10,7 @@ todos_bp = Namespace('todos', description='Todo management endpoints')
 # Define the Todo model for Swagger documentation
 todo_model = todos_bp.model('Todo', {
     'id': fields.Integer(readonly=True, description='Todo unique identifier'),
+    'created_at': fields.DateTime(readonly=True, description='Creation timestamp'),
     'title': fields.String(required=True, description='Todo title')
 })
 
