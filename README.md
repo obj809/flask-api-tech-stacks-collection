@@ -1,6 +1,6 @@
 # Flask API Tech Stacks Collection
 
-[![CI - Run Tests](https://github.com/obj809/flask-api-tech-stacks-collection/actions/workflows/tests.yml/badge.svg)](https://github.com/obj809/flask-api-tech-stacks-collection/actions/workflows/tests.yml)
+[![CI - Run Tests](https://github.com/obj809/flask-api-tech-stacks-collection/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/obj809/flask-api-tech-stacks-collection/actions/workflows/tests.yml)
 
 Flask REST API for Todo management with MySQL backend and 96% test coverage.
 
