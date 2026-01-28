@@ -6,24 +6,20 @@
     ],
     "todos": [
         {
-            "id": 39,
-            "title": "something"
+            "id": 1,
+            "title": "First task"
         },
         {
-            "id": 46,
-            "title": "here"
+            "id": 2,
+            "title": "Second task"
         },
         {
-            "id": 47,
-            "title": "now this"
+            "id": 3,
+            "title": "Third task"
         },
         {
-            "id": 57,
+            "id": 7,
             "title": "woweee"
-        },
-        {
-            "id": 58,
-            "title": "New Todo via cURL"
         }
     ]
 }
