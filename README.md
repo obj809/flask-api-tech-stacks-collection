@@ -1,4 +1,4 @@
-# Flask API Tech Stacks Collection
+# flask-api-tech-stacks-collection
 
 [![CI - Run Tests](https://github.com/obj809/flask-api-tech-stacks-collection/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/obj809/flask-api-tech-stacks-collection/actions/workflows/tests.yml)
 
